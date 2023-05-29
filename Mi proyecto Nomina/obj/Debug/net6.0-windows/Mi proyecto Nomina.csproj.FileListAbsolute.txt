@@ -1,0 +1,50 @@
+C:\Users\leslie\source\repos\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\Mi proyecto Nomina.csproj.AssemblyReference.cache
+C:\Users\leslie\source\repos\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\leslie\source\repos\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\Mi proyecto Nomina_MarkupCompile.cache
+C:\Users\leslie\source\repos\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\leslie\source\repos\Mi proyecto Nomina\Mi proyecto Nomina\bin\Debug\net6.0-windows\Mi proyecto Nomina.exe
+C:\Users\leslie\source\repos\Mi proyecto Nomina\Mi proyecto Nomina\bin\Debug\net6.0-windows\Mi proyecto Nomina.deps.json
+C:\Users\leslie\source\repos\Mi proyecto Nomina\Mi proyecto Nomina\bin\Debug\net6.0-windows\Mi proyecto Nomina.runtimeconfig.json
+C:\Users\leslie\source\repos\Mi proyecto Nomina\Mi proyecto Nomina\bin\Debug\net6.0-windows\Mi proyecto Nomina.dll
+C:\Users\leslie\source\repos\Mi proyecto Nomina\Mi proyecto Nomina\bin\Debug\net6.0-windows\Mi proyecto Nomina.pdb
+C:\Users\leslie\source\repos\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\leslie\source\repos\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\Mi proyecto Nomina.g.resources
+C:\Users\leslie\source\repos\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\Mi proyecto Nomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leslie\source\repos\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\Mi proyecto Nomina.AssemblyInfoInputs.cache
+C:\Users\leslie\source\repos\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\Mi proyecto Nomina.AssemblyInfo.cs
+C:\Users\leslie\source\repos\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\Mi proyecto Nomina.csproj.CoreCompileInputs.cache
+C:\Users\leslie\source\repos\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\Mi proyecto Nomina.dll
+C:\Users\leslie\source\repos\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\refint\Mi proyecto Nomina.dll
+C:\Users\leslie\source\repos\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\Mi proyecto Nomina.pdb
+C:\Users\leslie\source\repos\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\Mi proyecto Nomina.genruntimeconfig.cache
+C:\Users\leslie\source\repos\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\ref\Mi proyecto Nomina.dll
+C:\Users\leslie\source\repos\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\Window1.baml
+C:\Users\leslie\source\repos\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\Window1.g.cs
+C:\Users\leslie\source\repos\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\UserControl1.g.cs
+C:\Users\leslie\source\repos\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\Mi proyecto Nomina_MarkupCompile.lref
+C:\Users\leslie\source\repos\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\UserControl1.baml
+C:\Users\leslie\Desktop\Mi proyecto Nomina\Mi proyecto Nomina\bin\Debug\net6.0-windows\Mi proyecto Nomina.exe
+C:\Users\leslie\Desktop\Mi proyecto Nomina\Mi proyecto Nomina\bin\Debug\net6.0-windows\Mi proyecto Nomina.deps.json
+C:\Users\leslie\Desktop\Mi proyecto Nomina\Mi proyecto Nomina\bin\Debug\net6.0-windows\Mi proyecto Nomina.runtimeconfig.json
+C:\Users\leslie\Desktop\Mi proyecto Nomina\Mi proyecto Nomina\bin\Debug\net6.0-windows\Mi proyecto Nomina.dll
+C:\Users\leslie\Desktop\Mi proyecto Nomina\Mi proyecto Nomina\bin\Debug\net6.0-windows\Mi proyecto Nomina.pdb
+C:\Users\leslie\Desktop\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\Mi proyecto Nomina.csproj.AssemblyReference.cache
+C:\Users\leslie\Desktop\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\leslie\Desktop\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\Window1.baml
+C:\Users\leslie\Desktop\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\leslie\Desktop\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\UserControl1.g.cs
+C:\Users\leslie\Desktop\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\Window1.g.cs
+C:\Users\leslie\Desktop\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\leslie\Desktop\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\Mi proyecto Nomina_MarkupCompile.cache
+C:\Users\leslie\Desktop\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\Mi proyecto Nomina_MarkupCompile.lref
+C:\Users\leslie\Desktop\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\UserControl1.baml
+C:\Users\leslie\Desktop\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\Mi proyecto Nomina.g.resources
+C:\Users\leslie\Desktop\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\Mi proyecto Nomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leslie\Desktop\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\Mi proyecto Nomina.AssemblyInfoInputs.cache
+C:\Users\leslie\Desktop\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\Mi proyecto Nomina.AssemblyInfo.cs
+C:\Users\leslie\Desktop\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\Mi proyecto Nomina.csproj.CoreCompileInputs.cache
+C:\Users\leslie\Desktop\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\Mi proyecto Nomina.dll
+C:\Users\leslie\Desktop\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\refint\Mi proyecto Nomina.dll
+C:\Users\leslie\Desktop\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\Mi proyecto Nomina.pdb
+C:\Users\leslie\Desktop\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\Mi proyecto Nomina.genruntimeconfig.cache
+C:\Users\leslie\Desktop\Mi proyecto Nomina\Mi proyecto Nomina\obj\Debug\net6.0-windows\ref\Mi proyecto Nomina.dll
